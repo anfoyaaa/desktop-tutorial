@@ -1,0 +1,5 @@
+C:\MTA\TimesYear\obj\Debug\net6.0\TimesYear.csproj.AssemblyReference.cache
+C:\MTA\TimesYear\obj\Debug\net6.0\TimesYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\MTA\TimesYear\obj\Debug\net6.0\TimesYear.AssemblyInfoInputs.cache
+C:\MTA\TimesYear\obj\Debug\net6.0\TimesYear.AssemblyInfo.cs
+C:\MTA\TimesYear\obj\Debug\net6.0\TimesYear.csproj.CoreCompileInputs.cache
